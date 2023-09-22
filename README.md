@@ -2,6 +2,9 @@
 
 Using opencv, mediapipe to detect hand gestures and transforming the object depending on it.
 
+Full Explanation: https://www.youtube.com/watch?v=2XUCguV-N2k
+
+
 # Demo
 
 https://user-images.githubusercontent.com/64432063/161905775-8b219881-7726-40fa-9449-9f48396a2e78.mp4
